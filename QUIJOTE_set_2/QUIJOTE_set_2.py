@@ -230,6 +230,7 @@ def scytale_cipher(message, shift):
     for i in range(0, len(encoded_message)):
         letter = encoded_message[(i // shift) + (len(encoded_message) // shift) * (i % shift)]
         new_message += letter
+        
     return new_message   
 
 def scytale_decipher(message, shift):
