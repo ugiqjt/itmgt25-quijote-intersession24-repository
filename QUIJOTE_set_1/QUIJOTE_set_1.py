@@ -3,7 +3,7 @@
 This assignment will familiarize you with Python's basics.
 '''
 
-def savings(gross_pay, tax_rate, expenses):def savings(gross_pay, tax_rate, expenses):
+def savings(gross_pay, tax_rate, expenses):
     '''Savings.
 
     This function calculates the money remaining
