@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # # General Instructions
 # Change the filenames to LastName-FirstName_Section_M-N_2324_ITMGT2503 <br>
 # __Ex. GAW-Adriel_SectionM_2324_ITMGT2503__
